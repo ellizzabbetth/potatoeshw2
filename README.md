@@ -4,7 +4,7 @@ git clone https://github.com/saasbook/rails-intro potatoeshw2
 
 ####
 
-git remote set-url origin --push --add git@github.com:ellizzabbetth/potatoeshw2.git
+git remote set-url origin --push git@github.com:ellizzabbetth/potatoeshw2.git
 
 
 
