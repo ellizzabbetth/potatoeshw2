@@ -3,8 +3,16 @@ NOTES:
 git clone https://github.com/saasbook/rails-intro potatoeshw2
 
 ####
+TWO REMOTES TO PUSH TO:
+heroku
+github
 
 git remote set-url origin --push git@github.com:ellizzabbetth/potatoeshw2.git
+
+####
+git@heroku.com:mysterious-eyrie-7837.git
+
+
 
 
 
